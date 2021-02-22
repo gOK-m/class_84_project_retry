@@ -1,0 +1,9 @@
+body{
+    background-image: URL("download.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+    margin-top: 30px;
+    border-width: 10px;
+}
